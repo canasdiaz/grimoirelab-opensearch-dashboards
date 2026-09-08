@@ -22,7 +22,7 @@ opensearchDashboards.branding:
     defaultUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/wizard.png"
   loadingLogo:
     defaultUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/wizard.png"
-  faviconUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-analytics-opensearch-dashboards/main/assets/favicon.ico"
+  faviconUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/favicon.ico"
 
 opensearch_security.ui.basicauth.login.title: "Please login to GrimoireLab Analytics Dashboard."
 
