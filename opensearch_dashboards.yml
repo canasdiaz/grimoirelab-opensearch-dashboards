@@ -15,27 +15,15 @@ opensearch_security.cookie.secure: false
 
 # Bitergia Branding
 opensearchDashboards.branding:
-  applicationTitle: "Bitergia Analytics"
+  applicationTitle: "GrimoireLab"
   logo:
-    defaultUrl: "https://raw.githubusercontent.com/bitergia-analytics/bitergia-analytics-opensearch-dashboards/main/assets/bitergia_logo.svg"
+    defaultUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/wizard.png"
   mark:
-    defaultUrl: "https://raw.githubusercontent.com/bitergia-analytics/bitergia-analytics-opensearch-dashboards/main/assets/bitergia_logo.svg"
+    defaultUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/wizard.png"
   loadingLogo:
-    defaultUrl: "https://raw.githubusercontent.com/bitergia-analytics/bitergia-analytics-opensearch-dashboards/main/assets/bitergia_logo.svg"
-  faviconUrl: "https://raw.githubusercontent.com/bitergia-analytics/bitergia-analytics-opensearch-dashboards/main/assets/bitergia_logo.svg"
+    defaultUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-opensearch-dashboards/main/assets/wizard.png"
+  faviconUrl: "https://raw.githubusercontent.com/canasdiaz/grimoirelab-analytics-opensearch-dashboards/main/assets/favicon.ico"
 
-opensearch_security.ui.basicauth.login.brandimage: "https://raw.githubusercontent.com/bitergia-analytics/bitergia-analytics-opensearch-dashboards/main/assets/bitergia_login_logo.png"
-opensearch_security.ui.basicauth.login.title: "Please login to Bitergia Analytics Dashboard."
-opensearch_security.ui.basicauth.login.subtitle: "If you have forgotten your username or password, please contact the Bitergia staff."
+opensearch_security.ui.basicauth.login.title: "Please login to GrimoireLab Analytics Dashboard."
 
 opensearch_security.auth.anonymous_auth_enabled: true
-
-bitergia_analytics.branding:
-  projectName: "Bitergia Analytics"
-  backgroundColor: "#333"
-  linkColor: "#fcb42e"
-  textColor: "#cecece"
-  menuItemColor: "#dedede"
-  menuItemHoverColor: "#000000"
-  dropdownColor: "#525252"
-  selectedItemColor: "#f49e42"
